@@ -2,9 +2,8 @@ Các bạn tạo Request cập nhật thông tin điểm danh vào file này.
 Cú pháp: Mã SV - Họ và Tên
 -------------------
 
-235748020110195 - Đậu Xuân Thành
 235748020110233 - Lê Xuân Anh
 235748020110096 - Nguyễn Văn Quốc
 Điểm danh : 235748020110213 - Đặng Văn Tuấn
 235748020110302 - Bùi Mạnh Hoài An
-
+235748020110116 - Trần Văn Tự
