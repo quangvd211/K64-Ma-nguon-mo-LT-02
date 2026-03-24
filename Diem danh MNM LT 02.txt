@@ -2,6 +2,7 @@ Các bạn tạo Request cập nhật thông tin điểm danh vào file này.
 Cú pháp: Mã SV - Họ và Tên
 -------------------
 
+235748020110113-Nguyễn Thế Thiện Nguyên
 235748020110085- Nguyen Huy An
 235748020110195 - Đậu Xuân Thành
 235748020110233 - Lê Xuân Anh
